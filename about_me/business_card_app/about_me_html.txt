@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>HTML Document Template</title>
+  <style>
+    h1 {
+      ;
+      font-family: fantasy;
+      -webkit-text-stroke: 0.2px white;
+      color: #FF4500;
+    }
+
+    body{
+
+            background-image:
+ url("https://phonoteka.org/uploads/posts/2022-07/1658261234_54-phonoteka-org-p-tandzhiro-kamado-oboi-na-telefon-72.jpg");
+            background-repeat: repeat-x;
+            background-size: 100%;
+        }
+   p{
+   font-family: cursive;
+   color: #0000CD;
+   -webkit-text-stroke: 0.2px white;
+   font-size: 1.4em
+    }
+
+  </style>
+</head>
+<body background-image: red>
+<h1> About me  - Обо мне  </h1>
+  <p>ФИО: Фёдоров Александр Андреевич </p>
+  <p>Дата рождения: 15.07.1991</p>
+  <p>Образование: Высшее СФУ ГМ</p>
+  <p>Личные качества: Целеустремленность, трудолюбивость</p>
+  <p>Любимая фраза:  Никогда не сдаваться, вот моя магия!!, Это мой путь ниндзя !</p>
+
+
+</body>
+</html>
