@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <title>HTML Document Template</title>
+  <title>MyDjangoProject</title>
   <style>
     h1 {
       ;
