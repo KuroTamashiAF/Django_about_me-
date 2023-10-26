@@ -47,4 +47,6 @@ def about_me(request):
 
 
 def my_dreams(request):
-    pass
+    with open("./business_card_app/dreams_html.txt", 'r', encoding="utf-8") as file:
+        html = file.read()
+    return HttpResponse(html)

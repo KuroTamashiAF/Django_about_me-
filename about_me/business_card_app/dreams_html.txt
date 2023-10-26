@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>MyDjangoProject</title>
+  <style>
+    h1 {
+      ;
+      font-family: fantasy;
+      -webkit-text-stroke: 0.2px white;
+      color: #FF4500;
+    }
+
+    body{
+
+            background-image:
+ url("https://w.forfun.com/fetch/e1/e1f85b3fa737cc3378ca44e919988ce1.jpeg");
+            background-repeat: repeat-x;
+            background-size: 100%;
+        }
+   p{
+   font-family: cursive;
+   color: #0000CD;
+   -webkit-text-stroke: 0.2px white;
+   font-size: 1.4em
+    }
+
+  </style>
+</head>
+<body background-image: red>
+<h1> Dreams - Цели</h1>
+  <p>1. До НГ пройти все курсы по веб разработке <br>
+     2. До НГ прочитать "Грокаем Алгоритмы"<br>
+     3. Пройти практику в SibDev.pro в 10 лучших<br>
+4. Решить 100 задачь уровня Easy на LeetCode </p>
+
+</body>
+</html>
